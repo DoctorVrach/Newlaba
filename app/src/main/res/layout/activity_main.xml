@@ -35,4 +35,24 @@
             android:orientation="vertical" />
     </ScrollView>
 
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="395dp"
+        android:layout_height="192dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        tools:layout_editor_absoluteX="167dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="69dp" />
+
 </android.support.constraint.ConstraintLayout>
