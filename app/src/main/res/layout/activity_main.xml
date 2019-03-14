@@ -20,8 +20,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="42dp"
-        tools:layout_editor_absoluteY="100dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="153dp" />
 
     <ScrollView
         android:layout_width="395dp"
